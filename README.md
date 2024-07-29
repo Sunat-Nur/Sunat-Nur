@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunat-nur&label=Profile%20views&color=0e75b6&style=flat" alt="sunat-nur" /> </p>
 
-https://www.fiverr.com/mdnoorhossain98/full-stack-developer-mern-stack-developer-react-website-react-frontend-react-app
-
 <h3 align="left">Connect with me: uzbekistan9699@gmail.com</h3>
 <p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
