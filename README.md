@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunat-nur&label=Profile%20views&color=0e75b6&style=flat" alt="sunat-nur" /> </p>
 
-<img width="400" height="200" alt="Screenshot 2024-07-29 at 11 24 19 AM" src="https://github.com/user-attachments/assets/d488fa35-9bf0-49c8-974b-5ec2627b85de">
+<img width="400" height="400" alt="Screenshot 2024-07-29 at 11 24 19 AM" src="https://github.com/user-attachments/assets/d488fa35-9bf0-49c8-974b-5ec2627b85de">
 
 <h3 align="left">Connect with me: uzbekistan9699@gmail.com</h3>
 <p align="left">
