@@ -1,4 +1,5 @@
-<img width="200" height="200" alt="Screenshot 2024-07-29 at 11 24 19 AM" src="https://github.com/user-attachments/assets/d488fa35-9bf0-49c8-974b-5ec2627b85de">
+<img width="560" alt="Screenshot 2024-07-29 at 11 20 29 AM" src="https://github.com/user-attachments/assets/f0faa535-c60e-4cdf-bc75-e5f1d092adfa">
+
 
 <h3 align="left">Connect with me: uzbekistan9699@gmail.com</h3>
 <p align="left">
