@@ -1,5 +1,5 @@
 
-<img width="594" heigt="400" alt="Screenshot 2024-07-30 at 10 59 28 AM" src="https://github.com/user-attachments/assets/8a68d6f8-bd50-4f2a-a9ad-ba31ce95088a">
+<img width="794" heigt="400" alt="Screenshot 2024-07-30 at 10 59 28 AM" src="https://github.com/user-attachments/assets/8a68d6f8-bd50-4f2a-a9ad-ba31ce95088a">
 
 
 
