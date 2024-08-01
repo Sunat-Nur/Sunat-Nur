@@ -3,7 +3,7 @@
 
 
 
-<h5 align="left">Contact with me: uzbekistan9699@gmail.com</h5>
+<h5 align="left">email: uzbekistan9699@gmail.com</h5>
 <p align="left">
 
 </p>
